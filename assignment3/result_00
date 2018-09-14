@@ -1,0 +1,57 @@
+Files already downloaded and verified
+Building model...
+Start training...
+    Step:   500 avg_batch_loss: 1.99695
+    Step:  1000 avg_batch_loss: 1.47505
+    Step:  1500 avg_batch_loss: 1.25363
+    Finish training this EPOCH, start evaluating...
+EPOCH: 1 train_loss: 1.20337 train_acc: 0.57130 test_loss: 1.25901 test_acc 0.54730
+    Step:   500 avg_batch_loss: 1.06141
+    Step:  1000 avg_batch_loss: 0.98778
+    Step:  1500 avg_batch_loss: 0.89090
+    Finish training this EPOCH, start evaluating...
+EPOCH: 2 train_loss: 0.76826 train_acc: 0.73258 test_loss: 0.89764 test_acc 0.68380
+    Step:   500 avg_batch_loss: 0.74543
+    Step:  1000 avg_batch_loss: 0.71038
+    Step:  1500 avg_batch_loss: 0.72469
+    Finish training this EPOCH, start evaluating...
+EPOCH: 3 train_loss: 0.53638 train_acc: 0.81864 test_loss: 0.77359 test_acc 0.73190
+    Step:   500 avg_batch_loss: 0.51822
+    Step:  1000 avg_batch_loss: 0.54243
+    Step:  1500 avg_batch_loss: 0.56116
+    Finish training this EPOCH, start evaluating...
+EPOCH: 4 train_loss: 0.35827 train_acc: 0.88144 test_loss: 0.80263 test_acc 0.73650
+    Step:   500 avg_batch_loss: 0.33439
+    Step:  1000 avg_batch_loss: 0.38641
+    Step:  1500 avg_batch_loss: 0.41258
+    Finish training this EPOCH, start evaluating...
+EPOCH: 5 train_loss: 0.33498 train_acc: 0.88108 test_loss: 0.97698 test_acc 0.70750
+    Step:   500 avg_batch_loss: 0.22059
+    Step:  1000 avg_batch_loss: 0.27058
+    Step:  1500 avg_batch_loss: 0.29748
+    Finish training this EPOCH, start evaluating...
+EPOCH: 6 train_loss: 0.13664 train_acc: 0.95758 test_loss: 0.94606 test_acc 0.73950
+    Step:   500 avg_batch_loss: 0.15074
+    Step:  1000 avg_batch_loss: 0.19918
+    Step:  1500 avg_batch_loss: 0.22638
+    Finish training this EPOCH, start evaluating...
+EPOCH: 7 train_loss: 0.13041 train_acc: 0.95690 test_loss: 1.05141 test_acc 0.73490
+    Step:   500 avg_batch_loss: 0.13165
+    Step:  1000 avg_batch_loss: 0.16205
+    Step:  1500 avg_batch_loss: 0.18918
+    Finish training this EPOCH, start evaluating...
+EPOCH: 8 train_loss: 0.09609 train_acc: 0.96722 test_loss: 1.19710 test_acc 0.73500
+    Step:   500 avg_batch_loss: 0.09360
+    Step:  1000 avg_batch_loss: 0.13431
+    Step:  1500 avg_batch_loss: 0.17127
+    Finish training this EPOCH, start evaluating...
+EPOCH: 9 train_loss: 0.09782 train_acc: 0.96908 test_loss: 1.26265 test_acc 0.73800
+    Step:   500 avg_batch_loss: 0.08616
+    Step:  1000 avg_batch_loss: 0.11359
+    Step:  1500 avg_batch_loss: 0.14257
+    Finish training this EPOCH, start evaluating...
+EPOCH: 10 train_loss: 0.06786 train_acc: 0.97670 test_loss: 1.31517 test_acc 0.74040
+Finished Training
+Saving model...
+(pytorch)-bash-4.2$ packet_write_wait: Connection to 128.193.38.55 port 22: Broken pipe
+10-249-41-94:~ zhoufang$ 

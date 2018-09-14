@@ -1,0 +1,57 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Building model...
+Start training...
+    Step:   500 avg_batch_loss: 1.50977
+    Step:  1000 avg_batch_loss: 1.11811
+    Step:  1500 avg_batch_loss: 0.95152
+    Finish training this EPOCH, start evaluating...
+EPOCH: 1 train_loss: 0.82613 train_acc: 0.70520 test_loss: 0.90214 test_acc 0.67890
+    Step:   500 avg_batch_loss: 0.82035
+    Step:  1000 avg_batch_loss: 0.77701
+    Step:  1500 avg_batch_loss: 0.75605
+    Finish training this EPOCH, start evaluating...
+EPOCH: 2 train_loss: 0.68841 train_acc: 0.76066 test_loss: 0.83352 test_acc 0.71610
+    Step:   500 avg_batch_loss: 0.61225
+    Step:  1000 avg_batch_loss: 0.60627
+    Step:  1500 avg_batch_loss: 0.61809
+    Finish training this EPOCH, start evaluating...
+EPOCH: 3 train_loss: 0.52321 train_acc: 0.81808 test_loss: 0.76307 test_acc 0.73640
+    Step:   500 avg_batch_loss: 0.46489
+    Step:  1000 avg_batch_loss: 0.49900
+    Step:  1500 avg_batch_loss: 0.48404
+    Finish training this EPOCH, start evaluating...
+EPOCH: 4 train_loss: 0.32750 train_acc: 0.89284 test_loss: 0.65221 test_acc 0.77810
+    Step:   500 avg_batch_loss: 0.33470
+    Step:  1000 avg_batch_loss: 0.36972
+    Step:  1500 avg_batch_loss: 0.40560
+    Finish training this EPOCH, start evaluating...
+EPOCH: 5 train_loss: 0.23342 train_acc: 0.92350 test_loss: 0.64499 test_acc 0.78920
+    Step:   500 avg_batch_loss: 0.25025
+    Step:  1000 avg_batch_loss: 0.27105
+    Step:  1500 avg_batch_loss: 0.28214
+    Finish training this EPOCH, start evaluating...
+EPOCH: 6 train_loss: 0.14570 train_acc: 0.95666 test_loss: 0.67789 test_acc 0.78600
+    Step:   500 avg_batch_loss: 0.18246
+    Step:  1000 avg_batch_loss: 0.18535
+    Step:  1500 avg_batch_loss: 0.21266
+    Finish training this EPOCH, start evaluating...
+EPOCH: 7 train_loss: 0.10729 train_acc: 0.97052 test_loss: 0.70959 test_acc 0.78710
+    Step:   500 avg_batch_loss: 0.11374
+    Step:  1000 avg_batch_loss: 0.12872
+    Step:  1500 avg_batch_loss: 0.14693
+    Finish training this EPOCH, start evaluating...
+EPOCH: 8 train_loss: 0.05611 train_acc: 0.98794 test_loss: 0.72889 test_acc 0.79330
+    Step:   500 avg_batch_loss: 0.07731
+    Step:  1000 avg_batch_loss: 0.09280
+    Step:  1500 avg_batch_loss: 0.10389
+    Finish training this EPOCH, start evaluating...
+EPOCH: 9 train_loss: 0.05868 train_acc: 0.98392 test_loss: 0.85583 test_acc 0.78070
+    Step:   500 avg_batch_loss: 0.06685
+    Step:  1000 avg_batch_loss: 0.07245
+    Step:  1500 avg_batch_loss: 0.08129
+    Finish training this EPOCH, start evaluating...
+EPOCH: 10 train_loss: 0.02825 train_acc: 0.99436 test_loss: 0.77387 test_acc 0.79510
+Finished Training
+Saving model...
+(pytorch)-bash-4.2$ 
