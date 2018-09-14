@@ -1,0 +1,23 @@
+index selected in MLP and LSTM:
+37
+43
+index selected in MLP and importance MLP:
+37
+37
+index selected in LSTM and importance LSTM:
+43
+37
+37
+37
+index selected in MLP and MIFS MLP:
+37
+50
+index selected in LSTM and MIFS LSTM:
+43
+50
+index selected in MLP and F-score MLP:
+37
+49
+index selected in LSTM and F-score LSTM
+43
+45
