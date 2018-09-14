@@ -1,3 +1,3 @@
 # CS-535-Deep-Learning
 
-Assignament 3
+Assignment #3: Pytorch CIFAR-10 Image Classification
